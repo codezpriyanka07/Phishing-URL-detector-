@@ -1,2 +1,1 @@
-# Phishing-URL-detector-
-Project on Phishing URL detector 
+# Phishing-Url-Detection
